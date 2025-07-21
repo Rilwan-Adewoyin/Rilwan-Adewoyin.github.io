@@ -1,0 +1,134 @@
+baseURL: "https://gerome-andry.github.io" 
+title: Gérôme Andry
+paginate: 16
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Publications
+          url: papers/
+          weight: 1
+        - name: Blog
+          url: blog/
+          weight: 2
+        # - name: Search  
+        #   url: /search/  
+        #   weight: 3
+        # - name: Courses
+        #   url: courses/
+        #   weight: 2
+        # - name: Data
+        #   url: data/
+        #   weight: 3 
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
+
+params:
+    description: "I'm a PhD student at University of Liège working on the use of 
+    Deep Learning for sciences, specifically generative/probabilistic methods."
+    author: Gerome
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: true
+    disableScrollToTop: false
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Gérôme Andry
+          subtitle: "I'm a **PhD student** at University of Liège working on the use of 
+    Deep Learning for Sciences.
+    <br/>
+    I mainly work with generative/probabilistic methods to address 
+    model misspecification in **Simulation-based Inference**."
+          imageUrl: "profile.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Gérôme Andry
+          buttons:
+            - name: Publications
+              url: /papers/
+            - name: Blog
+              url: /blog/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:gandry@uliege.be
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=YZxxzigAAAAJ&hl=fr
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
+        - name: GitHub
+          url: https://github.com/gerome-andry
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        - name: Twitter
+          url: https://twitter.com/g4ndry
+        - name: Linkedin
+          url: https://www.linkedin.com/in/g%C3%A9r%C3%B4me-andry-012a35246/
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Gérôme Andry"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+# for search
+# outputs:
+#      home:
+#          - HTML
+#          - RSS
+#          - JSON
