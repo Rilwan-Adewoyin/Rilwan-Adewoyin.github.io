@@ -1,6 +1,7 @@
-baseURL: "https://gerome-andry.github.io" 
-title: Gérôme Andry
-paginate: 16
+baseURL: "https://rilwan-adewoyin.github.io" 
+title: Rilwan Adewoyin
+pagination:
+    pagerSize: 16
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -31,9 +32,9 @@ menu:
         #   weight: 4
 
 params:
-    description: "I'm a PhD student at University of Liège working on the use of 
-    Deep Learning for sciences, specifically generative/probabilistic methods."
-    author: Gerome
+    description: "I'm a Machine Learning Researcher @ ECMWF working on the use of 
+    Deep Learning for weather modelling."
+    author: Rilwan Adewoyin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -56,16 +57,13 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Gérôme Andry
-          subtitle: "I'm a **PhD student** at University of Liège working on the use of 
-    Deep Learning for Sciences.
-    <br/>
-    I mainly work with generative/probabilistic methods to address 
-    model misspecification in **Simulation-based Inference**."
+          title: Rilwan Adewoyin
+          subtitle: "I'm a **Machine Learning Researcher** @ ECMWF working on the use of 
+    Deep Learning for weather modelling."
           imageUrl: "profile.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Gérôme Andry
+          imageTitle: Rilwan Adewoyin
           buttons:
             - name: Publications
               url: /papers/
@@ -84,24 +82,20 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: mailto:gandry@uliege.be
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=YZxxzigAAAAJ&hl=fr
+          url: https://scholar.google.com/citations?user=SQxcHPMAAAAJ&hl=fr
         # - name: YouTube
         #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/gerome-andry
+          url: https://github.com/rilwan-adewoyin
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         - name: Twitter
-          url: https://twitter.com/g4ndry
+          url: https://twitter.com/rilakanni
         - name: Linkedin
-          url: https://www.linkedin.com/in/g%C3%A9r%C3%B4me-andry-012a35246/
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: https://www.linkedin.com/in/rilwanade/
+        - name: Meetings
+          url: 
 
     assets:
         disableHLJS: true
@@ -110,7 +104,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Gérôme Andry"
+      text: "Rilwan Adewoyin"
       icon: favicon.ico
       iconHeight: 18
 
