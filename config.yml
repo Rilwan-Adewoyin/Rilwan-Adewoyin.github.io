@@ -15,9 +15,9 @@ menu:
         - name: Publications
           url: papers/
           weight: 1
-        - name: Blog
-          url: blog/
-          weight: 2
+        # - name: Blog
+        #   url: blog/
+        #   weight: 2
         # - name: Search  
         #   url: /search/  
         #   weight: 3
@@ -32,8 +32,17 @@ menu:
         #   weight: 4
 
 params:
-    description: "I'm a Machine Learning Researcher @ ECMWF working on the use of 
-    Deep Learning for weather modelling."
+    description: >-
+      I’m a Machine Learning Researcher at ECMWF, where I study how deep learning
+      can advance weather modelling. My work focuses on the inductive biases
+      embedded in the design of generative models and on adapting training
+      techniques originally developed for language and video modelling so they are
+      theoretically and intuitively better aligned with geophysical data.
+
+      Previously, I completed my PhD at the University of Warwick, co-supervised
+      by [Prof. Yulan He](https://sites.google.com/view/yulanhe/team?authuser=0)
+      and [Prof. Ritabrata Dutta](https://orcid.org/0000-0001-8209-7747).
+
     author: Rilwan Adewoyin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -58,17 +67,25 @@ params:
     profileMode:
           enabled: true
           title: Rilwan Adewoyin
-          subtitle: "I'm a **Machine Learning Researcher** @ ECMWF working on the use of 
-    Deep Learning for weather modelling."
+          subtitle: >-
+            I’m a Machine Learning Researcher at ECMWF, where I study how deep learning
+            can advance weather modelling. My work focuses on the inductive biases
+            embedded in the design of generative models and on adapting training
+            techniques originally developed for language and video modelling so they are
+            theoretically and intuitively better aligned with geophysical data.
+
+            Previously, I completed my PhD at the University of Warwick, co-supervised
+            by [Prof. Yulan He](https://sites.google.com/view/yulanhe/team?authuser=0)
+            and [Prof. Ritabrata Dutta](https://orcid.org/0000-0001-8209-7747).
           imageUrl: "profile.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Rilwan Adewoyin
           buttons:
-            - name: Publications
-              url: /papers/
-            - name: Blog
-              url: /blog/
+            # - name: Publications
+            #   url: /papers/
+            # - name: Blog
+            #   url: /blog/
             # - name: Courses
             #   url: courses/
             # - name: Data
@@ -81,9 +98,10 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: "mailto:yourname@example.com?subject=CV%20Request%20via%20Website&body=Hi%20Rilwan%2C%0A%0AI’d%20like%20to%20receive%20your%20CV.%0A%0AThank%20you!"
+          title: "CV available upon request"
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=SQxcHPMAAAAJ&hl=fr
+          url: https://scholar.google.com/citations?user=SQxcHPMAAAAJ
         # - name: YouTube
         #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
@@ -94,8 +112,8 @@ params:
           url: https://twitter.com/rilakanni
         - name: Linkedin
           url: https://www.linkedin.com/in/rilwanade/
-        - name: Meetings
-          url: 
+        # - name: Meetings
+        #   url: 
 
     assets:
         disableHLJS: true

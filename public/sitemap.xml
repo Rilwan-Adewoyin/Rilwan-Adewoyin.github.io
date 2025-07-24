@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/inductive-bias/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/language-modeling/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/phd_thesis/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/weather-modelling/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/data/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/data/data1/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/keyword-10/</loc>
@@ -21,9 +39,6 @@
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/keyword-7/</loc>
-    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/courses/course1/</loc>
@@ -51,17 +66,9 @@
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/data-assimilation/</loc>
-  </url><url>
-    <loc>http://localhost:1313/papers/phd_thesis/</loc>
-  </url><url>
     <loc>http://localhost:1313/location/</loc>
   </url><url>
     <loc>http://localhost:1313/officehours/</loc>
-  </url><url>
-    <loc>http://localhost:1313/papers/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/sbi/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url>

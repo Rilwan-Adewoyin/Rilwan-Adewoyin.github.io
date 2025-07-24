@@ -1,6 +1,6 @@
 ---
 title: "Multi-Scale Modeling and Uncertainty Quantification of Weather and Language" 
-date: 2024-18-02
+date: 2024-02-18      # YYYY-MM-DD
 tags: ["Inductive Bias","weather modelling","language modeling"]
 author: ["Rilwan Adewoyin"]
 url: papers/phd_thesis

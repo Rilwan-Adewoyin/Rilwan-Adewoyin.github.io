@@ -6,7 +6,16 @@
     <description>Recent content on Rilwan Adewoyin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-Scale Modeling and Uncertainty Quantification of Weather and Language</title>
+      <link>http://localhost:1313/papers/phd_thesis/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/papers/phd_thesis/</guid>
+      <description>Paper description for search engines (less than 155 characters)</description>
+    </item>
+    
     <item>
       <title>Dataset Title</title>
       <link>http://localhost:1313/data/data1/</link>
@@ -34,15 +43,6 @@
       <description>This undergraduate course presents many new things.</description>
     </item>
     
-    
-    <item>
-      <title>Data Assimilation as Simulation-Based Inference (Master&#39;s thesis)</title>
-      <link>http://localhost:1313/papers/phd_thesis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/papers/phd_thesis/</guid>
-      <description>Paper description for search engines (less than 155 characters)</description>
-    </item>
     
     <item>
       <title>Location</title>

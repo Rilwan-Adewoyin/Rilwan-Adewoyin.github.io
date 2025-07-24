@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Papers on Rilwan Adewoyin</title>
-    <link>http://localhost:1313/papers/</link>
-    <description>Recent content in Papers on Rilwan Adewoyin</description>
+    <title>Language Modeling on Rilwan Adewoyin</title>
+    <link>http://localhost:1313/tags/language-modeling/</link>
+    <description>Recent content in Language Modeling on Rilwan Adewoyin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/language-modeling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multi-Scale Modeling and Uncertainty Quantification of Weather and Language</title>
       <link>http://localhost:1313/papers/phd_thesis/</link>
