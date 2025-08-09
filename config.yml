@@ -68,15 +68,17 @@ params:
           enabled: true
           title: Rilwan Adewoyin
           subtitle: >-
-            I’m a Machine Learning Researcher at ECMWF, where I study how deep learning
-            can advance weather modelling. My work focuses on the inductive biases
-            embedded in the design of generative models and on adapting training
-            techniques originally developed for language and video modelling so they are
-            theoretically and intuitively better aligned with geophysical data.
+            I’m a Machine Learning Researcher at ECMWF working on the AIFS and other
+      deep learning approaches to weather modelling.
+      
+      \n\nI am particularly interested in 
+      understanding the current set of inductive biases embedded in the architecture and training process 
+      of the current ai weather models. Then improving the architecutre and/or training process by research 
+      and implement techniques based on those from language or video modelling, but with adaptations in order to be theoretically or intuitively better aligned with geophysical data.
 
-            Previously, I completed my PhD at the University of Warwick, co-supervised
-            by [Prof. Yulan He](https://sites.google.com/view/yulanhe/team?authuser=0)
-            and [Prof. Ritabrata Dutta](https://orcid.org/0000-0001-8209-7747).
+      \n\nPreviously, I completed my PhD at the University of Warwick, co-supervised
+      by [Prof. Yulan He](https://sites.google.com/view/yulanhe/team?authuser=0)
+      and [Prof. Ritabrata Dutta](https://orcid.org/0000-0001-8209-7747).
           imageUrl: "profile.jpg"
           imageWidth: 160
           imageHeight: 160
